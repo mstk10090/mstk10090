@@ -1,16 +1,35 @@
-## Hi there 👋
+# mstk10090
 
-<!--
-**mstk10090/mstk10090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**利用者の課題から考え、実装と運用改善につなげる。**
 
-Here are some ideas to get you started:
+プロダクトエンジニアとして、事業と開発の両方に関わる仕事を志向しています。
+大学生向けサービス「N限」の立ち上げでは、Webプロダクトの開発に加え、集客・運営・指標に基づく改善に携わってきました。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 取り組んできたこと
+
+- **課題を仕様にする** — 利用者や企業のニーズを整理し、画面・業務フロー・優先順位へ落とし込む。
+- **プロダクトを実装する** — Next.js / React / TypeScriptで、学生・企業・管理者向けの画面やAPIを開発する。
+- **運用から改善する** — 登録・応募などの指標を具体化し、利用者が次の行動に進める導線を検討する。
+
+## 見ていただきたいもの
+
+| プロジェクト | 内容 | リンク |
+| --- | --- | --- |
+| **Work Session** | 架空の短時間ワークを予約する公開用サンプル。画面・業務ルール・データを分離し、定員・締切・重複予約をテストしています。 | [コード・起動方法](https://github.com/mstk10090/work-session-demo) |
+| **N限 — 開発経験の紹介** | サービスの課題、関わった範囲、開発から得た学びをまとめています。 | [ケーススタディ](https://github.com/mstk10090/work-session-demo/blob/main/docs/ngen-case-study.md) |
+| **設計と判断の記録** | サンプルで採用した設計と、本番サービスに拡張するときの課題を説明しています。 | [アーキテクチャ](https://github.com/mstk10090/work-session-demo/blob/main/docs/architecture.md) |
+
+## 使用経験のある技術
+
+TypeScript / JavaScript / React / Next.js / PostgreSQL / Prisma / Supabase / Kotlin
+
+開発には生成AIも活用しています。公開サンプルはAI支援で新規に作成したもので、過去の本番コードや個人開発の作業量を示すものではありません。仕様・実装・テスト・制約を一緒に読める形にしています。
+
+## 関心のある仕事
+
+顧客や利用者との対話を通じて課題を理解し、実装後の改善まで関われるプロダクト開発。
+事業上の目的と技術上の判断をつなぎ、チームで検証を進めることに関心があります。
+
+---
+
+業務用リポジトリは非公開です。ここで公開するサンプルには、実際の利用者情報・顧客データ・認証情報を使用していません。
